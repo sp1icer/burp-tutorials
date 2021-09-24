@@ -1,3 +1,5 @@
 # Burp Official
 */*/.idea
 */*/.idea/*
+**/*.jar
+**/*.class
